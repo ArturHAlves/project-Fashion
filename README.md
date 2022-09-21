@@ -1,4 +1,3 @@
 # ProjetoEstudo-Fashion
 
-* Criei um projeto cujo tema é sobre moda. 
-* Fiz um layout, tendo uma estrutura HTML e CSS. 
+Criação de uma estrutura básica de página com o tema moda. Estrutura semântica, posicionamento de elementos em html5 e css 
